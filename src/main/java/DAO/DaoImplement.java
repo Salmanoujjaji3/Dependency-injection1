@@ -1,5 +1,4 @@
 package DAO;
-
 public class DaoImplement implements IDao {
 
     @Override
